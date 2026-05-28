@@ -6,7 +6,7 @@ Most AI evaluation asks whether a model is factually correct, helpful, or safe. 
 
 CAFI focuses on open-text assistant behavior. It asks whether an answer fits the user's language, role, relationship, situation, and practical needs — not only whether it contains correct cultural information.
 
-Сөзтас, a Kazakh cultural AI assistant, is the first reference implementation where this evaluation problem became visible. CAFI itself is intended as an independent evaluation framework for cultural AI systems more broadly, especially in low-resource and culturally rich language settings.
+Soztaz (Kazakh: Сөзтас), a Kazakh cultural AI assistant, is the first reference implementation where this evaluation problem became visible. CAFI itself is intended as an independent evaluation framework for cultural AI systems more broadly, especially in low-resource and culturally rich language settings.
 
 The current work is at the position-paper and validation-design stage. Public materials may describe the problem, the high-level framework idea, and the planned validation approach. Operational evaluation details are not released.
 
@@ -22,7 +22,7 @@ CAFI is intended to support:
 
 ## What CAFI is not
 
-CAFI is not a magic score that declares one model "the best".
+CAFI is not a single score that declares one model "the best".
 
 It should not be used to:
 
@@ -68,10 +68,8 @@ Future public materials based on this README should remain high-level. Operation
 
 Future releases should be staged. Early public materials should explain what CAFI is and is not. More detailed materials should appear only after validation scope, reporting rules, and safety boundaries are clear.
 
-## Relationship to Сөзтас
+## Relationship to Soztaz
 
-Сөзтас is the first reference implementation for CAFI: the practical cultural AI assistant environment where the evaluation problem became concrete.
+Soztaz is the first reference implementation for CAFI: the practical cultural AI assistant environment where the evaluation problem became concrete.
 
-CAFI is the measurement framework that emerged from that problem. It should not be understood as a product feature limited to Сөзтас. The longer-term goal is to develop CAFI as a reusable framework for evaluating cultural AI assistants across languages and communities.
-
----
+CAFI is the measurement framework that emerged from that problem. It should not be understood as a product feature limited to Soztaz. The longer-term goal is to develop CAFI as a reusable framework for evaluating cultural AI assistants across languages and communities.
