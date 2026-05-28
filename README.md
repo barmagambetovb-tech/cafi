@@ -14,7 +14,7 @@ The current work is at the position-paper and validation-design stage. Public ma
 
 CAFI is intended to support:
 
-- private development review of cultural AI assistants;
+- internal development review of cultural AI assistants;
 - clearer methodology for cultural-fidelity evaluation;
 - structured human review by native speakers and domain-sensitive reviewers;
 - future calibrated comparison of cultural AI systems, after validation boundaries are clear;
@@ -40,7 +40,7 @@ CAFI is currently a framework proposal and validation design, not a completed pu
 
 What exists now:
 
-- a private position-paper draft;
+- a internal position-paper draft;
 - a high-level framework for cultural-fidelity evaluation;
 - a role-conditioned evaluation idea;
 - a planned human-calibration path;
