@@ -8,7 +8,7 @@ CAFI focuses on open-text assistant behavior. It asks whether an answer fits the
 
 Сөзтас, a Kazakh cultural AI assistant, is the first reference implementation where this evaluation problem became visible. CAFI itself is intended as an independent evaluation framework for cultural AI systems more broadly, especially in low-resource and culturally rich language settings.
 
-The current work is at private position-paper and validation-design stage. Public materials may describe the problem, the high-level framework idea, and the planned validation approach. Operational evaluation details are not released.h
+The current work is at private position-paper and validation-design stage. Public materials may describe the problem, the high-level framework idea, and the planned validation approach. Operational evaluation details are not released.
 
 ## What CAFI is for
 
