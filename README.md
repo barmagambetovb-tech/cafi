@@ -40,7 +40,7 @@ CAFI is currently a framework proposal and validation design, not a completed pu
 
 What exists now:
 
-- a internal position-paper draft;
+- an internal position-paper draft;
 - a high-level framework for cultural-fidelity evaluation;
 - a role-conditioned evaluation idea;
 - a planned human-calibration path;
